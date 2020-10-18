@@ -1,0 +1,8 @@
+Flask==1.1.2
+fastapi==0.61.1
+urllib3==1.25.10
+albumentations==0.4.3
+opencv-python==4.4.0.44
+opencv-python-headless==4.4.0.44
+numpy==1.19.2
+torch
